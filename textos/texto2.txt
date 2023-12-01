@@ -1,0 +1,2 @@
+#Este texto es una copa del archivo nombrado "texto1"
+Hola mundo esto es un texto
